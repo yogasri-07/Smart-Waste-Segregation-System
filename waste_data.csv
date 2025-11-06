@@ -1,0 +1,37 @@
+item,category,classification
+apple,fruit,Biodegradable
+banana,fruit,Biodegradable
+tomato,vegetable,Biodegradable
+used PET bottle,plastic,Non-biodegradable
+plastic food wrapper,plastic,Non-biodegradable
+aluminum can,metal,Non-biodegradable
+tin can,metal,Non-biodegradable
+newspaper,paper,Biodegradable
+magazine paper,paper,Biodegradable
+cardboard box,paper,Biodegradable
+glass bottle,glass,Non-biodegradable
+glass jar,glass,Non-biodegradable
+banana peel,organic,Biodegradable
+vegetable peels,organic,Biodegradable
+tea leaves,organic,Biodegradable
+cooked food leftovers,organic,Biodegradable
+styrofoam cup,thermocol,Non-biodegradable
+tetra pak carton,composite,Non-biodegradable
+used battery,hazardous,Non-biodegradable
+LED bulb,e-waste,Non-biodegradable
+broken mobile phone,e-waste,Non-biodegradable
+old clothes,textile,Biodegradable
+cotton rags,textile,Biodegradable
+medical cotton/syringe,medical/hazardous,Non-biodegradable
+sanitary napkin,sanitary,Non-biodegradable
+diaper,sanitary,Non-biodegradable
+shredded wood,green-waste,Biodegradable
+yard leaves,green-waste,Biodegradable
+broken ceramic,other,Non-biodegradable
+paint can,hazardous,Non-biodegradable
+motor oil container,hazardous,Non-biodegradable
+rubber tyre,other,Non-biodegradable
+chips packet,plastic,Non-biodegradable
+fruits,vegetables,biodegradable
+orange,fruit,Biodegradable
+sindhusri,other,Non-biodegradable
